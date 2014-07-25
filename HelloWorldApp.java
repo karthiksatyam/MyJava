@@ -4,6 +4,6 @@
  */
 class HelloWorldApp {
     public static void main(String[] args) {
-        System.out.println("Hello World! Dudes"); // Display the string.
+        System.out.println("Hello World! Dudettes"); // Display the string.
     }
 }
